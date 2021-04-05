@@ -4,4 +4,5 @@ Dear CCF Users, as some of you may have noticed CCF went dark around 4pm EST yes
 
 For the latest updates do check our twitter at the link below:
 
-https://twitter.com/CorvetteForums
+[CCF on Twitter](https://twitter.com/CorvetteForums)
+
